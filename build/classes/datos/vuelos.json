@@ -1,0 +1,8 @@
+[{"origen":"Manizales","destino":"Medellin","duracion":1.5,"precio":95000.0},
+    {"origen":"Medellin","destino":"Cartagena","duracion":3.5,"precio":295000.0},
+    {"origen":"Pereira","destino":"Cartagena","duracion":3.5,"precio":295000.0},
+    {"origen":"Cali","destino":"Manizales","duracion":3.5,"precio":295000.0},
+    {"origen":"Manizales","destino":"Ibague","duracion":3.5,"precio":295000.0},
+    {"origen":"Ibague","destino":"Bogota","duracion":3.5,"precio":295000.0},
+    {"origen":"Bogota","destino":"Cartagena","duracion":3.5,"precio":295000.0}
+    ]
